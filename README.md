@@ -10,4 +10,4 @@ Mostly this is up just for reference atm; hopefully we can come up with somethin
 
 
 
-The project is offered “as-is”, without warranty, and disclaiming liability for damages resulting from using the projects
+The project is offered “as-is”, without warranty, and disclaiming liability for damages resulting from using the project

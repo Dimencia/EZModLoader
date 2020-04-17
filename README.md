@@ -22,3 +22,8 @@ That's it!  Now just find any mods you'd like and put their .dll file into the *
 
 ### Mod Ordering
 Isn't really implemented yet, but, it processes the DLL files in alphabetical order.  So if necessary, you can add numbers to the beginnings of the names of mods to dictate the load order
+
+
+### How To Make Mods
+I've written a relatively short guide here for the basics, but Harmony's docs are even better.  Put your main in a class named Preloader, it will be called by this, and do whatever you need to do
+https://docs.google.com/document/d/1mfaTIg7s8HV8Crg0lrNr96-OVoA9LI7XyzATOkhAFWg/edit
